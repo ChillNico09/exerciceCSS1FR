@@ -9,3 +9,26 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.box-item{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#BI-1{
+    background-color: lightgreen;
+    margin: 20px;
+}
+
+#BI-2{
+    background-color: lightcoral;
+    justify-self: center;
+}
+
+#BI-3{
+    background-color: lightgoldenrodyellow;
+    margin: 20px;
+    justify-self: end;
+}
